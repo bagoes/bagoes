@@ -1,8 +1,5 @@
-###  Hi! 👋 I’m @bagoes  
-- 👀 I’m interested in WEB programming
-- 🌱 I’m currently learning WEB programming
-- 💞️ I’m looking to collaborate on WEB programming
-- 📫 How to reach me ... [mail](mailto:bagoessoemargo@ymail.com)
+###  Hi! 👋 I’m @bagoes 
+currently learning WEB programming
 
 <p align="left">
 <a href="https://github.com/bagoes">
